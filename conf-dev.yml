@@ -1,2 +1,2 @@
 config:
-  sayhello: welcome to dandong
+  sayhello: "welcome to dandong"
